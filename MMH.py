@@ -50,7 +50,7 @@ def readline___Public_Xml():
 		exit()
 	elif key in ["1", "01"]:
 		time.sleep(0.5)
-		__crack__().plerr()
+		__crack__()plerr()
 	elif key in ["2", "02"]:
 		time.sleep(0.5)
 		os.system('python Dump.py')
